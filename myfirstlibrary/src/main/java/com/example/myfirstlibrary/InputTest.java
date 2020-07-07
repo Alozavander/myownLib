@@ -2,7 +2,9 @@ package com.example.myfirstlibrary;
 
 import android.content.Context;
 import android.widget.Toast;
-
+/*
+    Author: Alozavander
+ */
 public class InputTest {
     private static Toast mToast;
 
