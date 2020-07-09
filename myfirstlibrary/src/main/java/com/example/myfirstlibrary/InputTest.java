@@ -10,6 +10,6 @@ public class InputTest {
 
     public static void displayInput(Context pContext, String pStr){
         mToast = Toast.makeText(pContext,pStr,Toast.LENGTH_LONG);
-        mToast.show();
+        mToast.show();//change
     }
 }
